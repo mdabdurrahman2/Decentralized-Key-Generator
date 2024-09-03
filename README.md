@@ -9,5 +9,5 @@
 - **Decentralized Key Storage:** The server securely stores the decrypted data in a key store.
   
 # Requirements
-Python 3.9
-rsa Python library
+- Python 3.9
+- rsa Python library
